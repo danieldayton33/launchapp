@@ -25,3 +25,4 @@ APIs used:
 launchlibrary.net
 spaceflightnewsapi.com
 openweathermap.org
+![example](https://user-images.githubusercontent.com/44746908/58358411-c76e0000-7e4c-11e9-8316-3eab169e42aa.gif)
